@@ -1,6 +1,6 @@
 # Classification-Project
 
-# **Project overview
+# Project overview
 
 
 Steps
