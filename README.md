@@ -50,4 +50,4 @@ Steps
      
      
      
-6. Conclude the project and make a submission to kaggle**
+6. Conclude the project and make a submission to kaggle
