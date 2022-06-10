@@ -19,10 +19,7 @@ Steps
         - traveling alone vs in groups
         - location on the ship
     - What are the value counts like for features based on the survived vs deceased?
-    
-    
-    
-    
+        
  
 3. What kind of data manipulation has to be done to create models for this data set?
      - Deal with missing values
