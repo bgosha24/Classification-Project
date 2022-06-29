@@ -1,4 +1,4 @@
-# Classification-Project
+# Predicting Titanic Survivors
 
 _**Project intuition and reasoning**_
 
